@@ -1,4 +1,4 @@
-# React Webpack Boilerplate
+# Asteroids (three/cannon)
 
 ## Installation
 
