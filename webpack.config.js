@@ -84,11 +84,9 @@ const config = {
     }
   },
   devServer: {
-    hot: true,
+    hot: false,
     contentBase: resolve(__dirname, 'dist'),
-    // match the output path
     publicPath: '/',
-    // match the output `publicPath`
     historyApiFallback: true,
   },
   plugins: [
