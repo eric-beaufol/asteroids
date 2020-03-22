@@ -14,3 +14,13 @@
    `npm run build`
 
 2. Build is added to `/www/` folder
+
+## Controls
+
+forward : ^
+backward: ù
+down: shift
+up: alt/option
+roll: a / e
+pitch: z / s
+yaw: q / d
